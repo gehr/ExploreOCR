@@ -25,7 +25,11 @@
 #include <bb/cascades/FontSize>
 #include <bb/cascades/SystemDefaults>
 
+<<<<<<< HEAD
 /* malignant change */
+=======
+/* benign change this is my addition */
+>>>>>>> 085b7204ab1189dedb595350f80d7babacd236f9
 #include <camera/camera_api.h>
 #include <screen/screen.h>
 #include <bps/soundplayer.h>
