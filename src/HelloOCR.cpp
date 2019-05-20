@@ -27,7 +27,7 @@
 
 /* malignant change */
 /* benign change this is my addition */
-/* another comment */
+/* another c comment */
 #include <camera/camera_api.h>
 #include <screen/screen.h>
 #include <bps/soundplayer.h>
