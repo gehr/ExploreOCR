@@ -25,9 +25,9 @@
 #include <bb/cascades/FontSize>
 #include <bb/cascades/SystemDefaults>
 
-/* malignant change */
-/* benign change this is my addition */
-/* another c comment */
+/* Malignant change. */
+/* Benign change this is my addition. */
+/* Another c comment. */
 #include <camera/camera_api.h>
 #include <screen/screen.h>
 #include <bps/soundplayer.h>
