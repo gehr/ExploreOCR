@@ -25,7 +25,7 @@
 #include <bb/cascades/FontSize>
 #include <bb/cascades/SystemDefaults>
 
-/* benign change */
+/* benign change this is my addition */
 #include <camera/camera_api.h>
 #include <screen/screen.h>
 #include <bps/soundplayer.h>
